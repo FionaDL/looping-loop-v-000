@@ -1,4 +1,5 @@
- looping do
+
+looping do
 	puts "Wingardium Levioso"
 end
 

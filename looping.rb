@@ -1,5 +1,5 @@
 
-looping do
+def looping do
 	puts "Wingardium Levioso"
 end
 

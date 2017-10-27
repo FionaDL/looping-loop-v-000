@@ -1,6 +1,8 @@
 
-infinate.times do
-	puts "Wingardium Levioso"
+def looping
+  loop do
+	   puts "Wingardium Levioso"
+  end
 end
 
 #call your method here
